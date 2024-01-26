@@ -1,0 +1,980 @@
+{
+  "Samsung": {
+    "fr": {
+      "compare": {
+        "productCompareVisibility": {
+          "marketing": true,
+          "shop": false,
+          "combined": false
+        },
+        "excludedProductFamilies": ["ServiceProducts", "Service_Products"],
+        "productFamilyReplacement": [
+          {
+            "replacementFamily": {
+              "singleProductFamily": "Smartphones"
+            },
+            "familiesToReplace": {
+              "productFamily": [
+                "Tablets",
+                "Smartwatches",
+                "Laptops",
+                "Cameras"
+              ]
+            }
+          }
+        ]
+      },
+      "consentManager": {
+        "cmpId": "12345",
+        "cmpCode": "abcde12345"
+      },
+      "features": {
+        "offlineDealerLocator": true,
+        "orderFromOnlineStore": false,
+        "showLogosInBuyarea": false
+      },
+      "productDetails": {
+        "eNumberTabSection": {
+          "title": "How to Identify",
+          "href": "#/Tabs=section-spareparts/"
+        },
+        "eNumberHowToFind": "SGM12345678_e-nr"
+      },
+      "energyLabel": {
+        "showText": true
+      },
+      "links": {
+        "countrySwitchPage": {
+          "title": "Switch to Your Country",
+          "href": "https://www.samsung.fr/"
+        }
+      },
+      "pricing": {
+        "priceState": "disabled",
+        "ecoFeeState": false,
+        "retailPriceStatus": "DISABLED",
+        "unitPriceState": false
+      },
+      "reviews": {
+        "questionsAndAnswers": "enabled",
+        "reviewSharingLocales": {
+          "locales": ["fr", "de", "es"]
+        },
+        "reviewsActivatedFor": {
+          "mainProductGroup": ["Smartphones", "Tablets"]
+        }
+      },
+      "sales": {
+        "showPreSalesBadge": false,
+        "hidePreSalesFamilies": {
+          "excludeProductFamilies": ["OldModels"]
+        },
+        "services": {
+          "deliveryCostNote": false,
+          "deliveryTimeAndReturnNote": false,
+          "flexibleTextNote": false
+        }
+      },
+      "verification": {
+        "google": "samsung-fr-verification-code"
+      },
+      "sorting": {
+        "availableOptions": [
+          {
+            "attributeId": "DEFAULT",
+            "attributeName": "default",
+            "direction": "ASCENDING"
+          },
+          {
+            "attributeId": "PRODUCT_NAME",
+            "attributeName": "product_name",
+            "direction": "ASCENDING"
+          },
+          {
+            "attributeId": "PRODUCT_NAME",
+            "attributeName": "product_name",
+            "direction": "DESCENDING"
+          },
+          {
+            "attributeId": "PRODUCT_CODE",
+            "attributeName": "product_code",
+            "direction": "ASCENDING"
+          },
+          {
+            "attributeId": "PRODUCT_CODE",
+            "attributeName": "product_code",
+            "direction": "DESCENDING"
+          }
+        ]
+      }
+    },
+    "us": {
+      "compare": {
+        "productCompareVisibility": {
+          "marketing": true,
+          "shop": false,
+          "combined": false
+        },
+        "excludedProductFamilies": ["ServiceProducts", "Service_Products"],
+        "productFamilyReplacement": [
+          {
+            "replacementFamily": {
+              "singleProductFamily": "Smartphones"
+            },
+            "familiesToReplace": {
+              "productFamily": [
+                "Tablets",
+                "Smartwatches",
+                "Laptops",
+                "Cameras"
+              ]
+            }
+          }
+        ]
+      },
+      "consentManager": {
+        "cmpId": "67890",
+        "cmpCode": "fghij67890"
+      },
+      "features": {
+        "offlineDealerLocator": true,
+        "orderFromOnlineStore": false,
+        "showLogosInBuyarea": false
+      },
+      "productDetails": {
+        "eNumberTabSection": {
+          "title": "How to Identify",
+          "href": "#/Tabs=section-spareparts/"
+        },
+        "eNumberHowToFind": "SGM87654321_e-nr"
+      },
+      "energyLabel": {
+        "showText": true
+      },
+      "links": {
+        "countrySwitchPage": {
+          "title": "Switch to Your Country",
+          "href": "https://www.samsung.com/us/"
+        }
+      },
+      "pricing": {
+        "priceState": "enabled",
+        "ecoFeeState": true,
+        "retailPriceStatus": "ENABLED",
+        "unitPriceState": true
+      },
+      "reviews": {
+        "questionsAndAnswers": "enabled",
+        "reviewSharingLocales": {
+          "locales": ["en", "es", "fr"]
+        },
+        "reviewsActivatedFor": {
+          "mainProductGroup": ["Smartphones", "Tablets"]
+        }
+      },
+      "sales": {
+        "showPreSalesBadge": true,
+        "hidePreSalesFamilies": {
+          "excludeProductFamilies": ["Samsung Galaxy Tab S7", "Samsung Galaxy S21","Samsung Galaxy Buds"]
+        },
+        "services": {
+          "deliveryCostNote": true,
+          "deliveryTimeAndReturnNote": true,
+          "flexibleTextNote": true
+        }
+      },
+      "verification": {
+        "google": "samsung-us-verification-code"
+      },
+      "sorting": {
+        "availableOptions": [
+          {
+            "attributeId": "DEFAULT",
+            "attributeName": "default",
+            "direction": "ASCENDING"
+          },
+          {
+            "attributeId": "PRODUCT_NAME",
+            "attributeName": "product_name",
+            "direction": "ASCENDING"
+          },
+          {
+            "attributeId": "PRODUCT_NAME",
+            "attributeName": "product_name",
+            "direction": "DESCENDING"
+          },
+          {
+            "attributeId": "PRODUCT_CODE",
+            "attributeName": "product_code",
+            "direction": "ASCENDING"
+          },
+          {
+            "attributeId": "PRODUCT_CODE",
+            "attributeName": "product_code",
+            "direction": "DESCENDING"
+          }
+        ]
+      }
+    }
+  },
+  "Sony": {
+    "de": {
+      "compare": {
+        "productCompareVisibility": {
+          "marketing": true,
+          "shop": false,
+          "combined": false
+        },
+        "excludedProductFamilies": ["SonyServiceProducts", "Service_Products"],
+        "productFamilyReplacement": [
+          {
+            "replacementFamily": {
+              "singleProductFamily": "TVs"
+            },
+            "familiesToReplace": {
+              "productFamily": [
+                "AudioSystems",
+                "Playstations",
+                "Cameras",
+                "Headphones"
+              ]
+            }
+          }
+        ]
+      },
+      "consentManager": {
+        "cmpId": "98765",
+        "cmpCode": "zyxwv98765"
+      },
+      "features": {
+        "offlineDealerLocator": true,
+        "orderFromOnlineStore": false,
+        "showLogosInBuyarea": false
+      },
+      "productDetails": {
+        "eNumberTabSection": {
+          "title": "How to Identify",
+          "href": "#/Tabs=section-spareparts/"
+        },
+        "eNumberHowToFind": "SON12345678_e-nr"
+      },
+      "energyLabel": {
+        "showText": true
+      },
+      "links": {
+        "countrySwitchPage": {
+          "title": "Switch to Your Country",
+          "href": "https://www.sony.de/"
+        }
+      },
+      "pricing": {
+        "priceState": "enabled",
+        "ecoFeeState": true,
+        "retailPriceStatus": "ENABLED",
+        "unitPriceState": true
+      },
+      "reviews": {
+        "questionsAndAnswers": "enabled",
+        "reviewSharingLocales": {
+          "locales": ["de", "es", "it"]
+        },
+        "reviewsActivatedFor": {
+          "mainProductGroup": ["TVs", "AudioSystems"]
+        }
+      },
+      "sales": {
+        "showPreSalesBadge": true,
+        "hidePreSalesFamilies": {
+          "excludeProductFamilies": ["iPhone 13 Pro (2021)",""]
+        },
+        "services": {
+          "deliveryCostNote": true,
+          "deliveryTimeAndReturnNote": true,
+          "flexibleTextNote": true
+        }
+      },
+      "verification": {
+        "google": "sony-de-verification-code"
+      },
+      "sorting": {
+        "availableOptions": [
+          {
+            "attributeId": "DEFAULT",
+            "attributeName": "default",
+            "direction": "ASCENDING"
+          },
+          {
+            "attributeId": "PRODUCT_NAME",
+            "attributeName": "product_name",
+            "direction": "ASCENDING"
+          },
+          {
+            "attributeId": "PRODUCT_NAME",
+            "attributeName": "product_name",
+            "direction": "DESCENDING"
+          },
+          {
+            "attributeId": "PRODUCT_CODE",
+            "attributeName": "product_code",
+            "direction": "ASCENDING"
+          },
+          {
+            "attributeId": "PRODUCT_CODE",
+            "attributeName": "product_code",
+            "direction": "DESCENDING"
+          }
+        ]
+      }
+    },
+    "es": {
+      "compare": {
+        "productCompareVisibility": {
+          "marketing": true,
+          "shop": false,
+          "combined": false
+        },
+        "excludedProductFamilies": ["SonyServiceProducts", "Service_Products"],
+        "productFamilyReplacement": [
+          {
+            "replacementFamily": {
+              "singleProductFamily": "Smartphones"
+            },
+            "familiesToReplace": {
+              "productFamily": [
+                "Tablets",
+                "AudioSystems",
+                "Cameras",
+                "Headphones"
+              ]
+            }
+          }
+        ]
+      },
+      "consentManager": {
+        "cmpId": "45678",
+        "cmpCode": "mnop45678"
+      },
+      "features": {
+        "offlineDealerLocator": true,
+        "orderFromOnlineStore": false,
+        "showLogosInBuyarea": false
+      },
+      "productDetails": {
+        "eNumberTabSection": {
+          "title": "How to Identify",
+          "href": "#/Tabs=section-spareparts/"
+        },
+        "eNumberHowToFind": "SON87654321_e-nr"
+      },
+      "energyLabel": {
+        "showText": true
+      },
+      "links": {
+        "countrySwitchPage": {
+          "title": "Switch to Your Country",
+          "href": "https://www.sony.es/"
+        }
+      },
+      "pricing": {
+        "priceState": "enabled",
+        "ecoFeeState": true,
+        "retailPriceStatus": "ENABLED",
+        "unitPriceState": true
+      },
+      "reviews": {
+        "questionsAndAnswers": "enabled",
+        "reviewSharingLocales": {
+          "locales": ["es", "it", "fr"]
+        },
+        "reviewsActivatedFor": {
+          "mainProductGroup": ["Smartphones", "Tablets"]
+        }
+      },
+      "sales": {
+        "showPreSalesBadge": true,
+        "hidePreSalesFamilies": {
+          "excludeProductFamilies": ["Sony Xperia 5 III", "Sony Xperia Tablet Z4","Sony Xperia 1 III"]
+        },
+        "services": {
+          "deliveryCostNote": true,
+          "deliveryTimeAndReturnNote": true,
+          "flexibleTextNote": true
+        }
+      },
+      "verification": {
+        "google": "sony-es-verification-code"
+      },
+      "sorting": {
+        "availableOptions": [
+          {
+            "attributeId": "DEFAULT",
+            "attributeName": "default",
+            "direction": "ASCENDING"
+          },
+          {
+            "attributeId": "PRODUCT_NAME",
+            "attributeName": "product_name",
+            "direction": "ASCENDING"
+          },
+          {
+            "attributeId": "PRODUCT_NAME",
+            "attributeName": "product_name",
+            "direction": "DESCENDING"
+          },
+          {
+            "attributeId": "PRODUCT_CODE",
+            "attributeName": "product_code",
+            "direction": "ASCENDING"
+          },
+          {
+            "attributeId": "PRODUCT_CODE",
+            "attributeName": "product_code",
+            "direction": "DESCENDING"
+          }
+        ]
+      }
+    },
+    "it": {
+      "compare": {
+        "productCompareVisibility": {
+          "marketing": true,
+          "shop": false,
+          "combined": false
+        },
+        "excludedProductFamilies": ["SonyServiceProducts", "Service_Products"],
+        "productFamilyReplacement": [
+          {
+            "replacementFamily": {
+              "singleProductFamily": "Laptops"
+            },
+            "familiesToReplace": {
+              "productFamily": [
+                "Desktops",
+                "Monitors",
+                "Printers",
+                "Accessories"
+              ]
+            }
+          }
+        ]
+      },
+      "consentManager": {
+        "cmpId": "23456",
+        "cmpCode": "qrst23456"
+      },
+      "features": {
+        "offlineDealerLocator": true,
+        "orderFromOnlineStore": false,
+        "showLogosInBuyarea": false
+      },
+      "productDetails": {
+        "eNumberTabSection": {
+          "title": "How to Identify",
+          "href": "#/Tabs=section-spareparts/"
+        },
+        "eNumberHowToFind": "SON23456789_e-nr"
+      },
+      "energyLabel": {
+        "showText": true
+      },
+      "links": {
+        "countrySwitchPage": {
+          "title": "Switch to Your Country",
+          "href": "https://www.sony.it/"
+        }
+      },
+      "pricing": {
+        "priceState": "enabled",
+        "ecoFeeState": true,
+        "retailPriceStatus": "ENABLED",
+        "unitPriceState": true
+      },
+      "reviews": {
+        "questionsAndAnswers": "enabled",
+        "reviewSharingLocales": {
+          "locales": ["it", "es", "fr"]
+        },
+        "reviewsActivatedFor": {
+          "mainProductGroup": ["Headphones", "Desktops"]
+        }
+      },
+      "sales": {
+        "showPreSalesBadge": true,
+        "hidePreSalesFamilies": {
+          "excludeProductFamilies": ["Sony WH-1000XM4","Sony WF-1000XM4"]
+        },
+        "services": {
+          "deliveryCostNote": true,
+          "deliveryTimeAndReturnNote": true,
+          "flexibleTextNote": true
+        }
+      },
+      "verification": {
+        "google": "sony-it-verification-code"
+      },
+      "sorting": {
+        "availableOptions": [
+          {
+            "attributeId": "DEFAULT",
+            "attributeName": "default",
+            "direction": "ASCENDING"
+          },
+          {
+            "attributeId": "PRODUCT_NAME",
+            "attributeName": "product_name",
+            "direction": "ASCENDING"
+          },
+          {
+            "attributeId": "PRODUCT_NAME",
+            "attributeName": "product_name",
+            "direction": "DESCENDING"
+          },
+          {
+            "attributeId": "PRODUCT_CODE",
+            "attributeName": "product_code",
+            "direction": "ASCENDING"
+          },
+          {
+            "attributeId": "PRODUCT_CODE",
+            "attributeName": "product_code",
+            "direction": "DESCENDING"
+          }
+        ]
+      }
+    }
+  },
+  "LG": {
+    "uk": {
+      "compare": {
+        "productCompareVisibility": {
+          "marketing": true,
+          "shop": false,
+          "combined": false
+        },
+        "excludedProductFamilies": ["LGSerivceProducts", "Service_Products"],
+        "productFamilyReplacement": [
+          {
+            "replacementFamily": {
+              "singleProductFamily": "Smart TVs"
+            },
+            "familiesToReplace": {
+              "productFamily": [
+                "Refrigerators",
+                "WashingMachines",
+                "AirConditioners",
+                "SoundBars"
+              ]
+            }
+          }
+        ]
+      },
+      "consentManager": {
+        "cmpId": "54321",
+        "cmpCode": "dcba54321"
+      },
+      "features": {
+        "offlineDealerLocator": true,
+        "orderFromOnlineStore": false,
+        "showLogosInBuyarea": false
+      },
+      "productDetails": {
+        "eNumberTabSection": {
+          "title": "How to Identify",
+          "href": "#/Tabs=section-spareparts/"
+        },
+        "eNumberHowToFind": "LG78901234_e-nr"
+      },
+      "energyLabel": {
+        "showText": true
+      },
+      "links": {
+        "countrySwitchPage": {
+          "title": "Switch to Your Country",
+          "href": "https://www.lg.com/uk/"
+        }
+      },
+      "pricing": {
+        "priceState": "enabled",
+        "ecoFeeState": true,
+        "retailPriceStatus": "ENABLED",
+        "unitPriceState": true
+      },
+      "reviews": {
+        "questionsAndAnswers": "enabled",
+        "reviewSharingLocales": {
+          "locales": ["uk", "ca", "au", "jp"]
+        },
+        "reviewsActivatedFor": {
+          "mainProductGroup": ["Smart TVs", "Refrigerators"]
+        }
+      },
+      "sales": {
+        "showPreSalesBadge": true,
+        "hidePreSalesFamilies": {
+          "excludeProductFamilies": ["LG G8 ThinQ", "LG Nexus 5X", "G Rolly Keyboard 2"]
+        },
+        "services": {
+          "deliveryCostNote": true,
+          "deliveryTimeAndReturnNote": true,
+          "flexibleTextNote": true
+        }
+      },
+      "verification": {
+        "google": "lg-uk-verification-code"
+      },
+      "sorting": {
+        "availableOptions": [
+          {
+            "attributeId": "DEFAULT",
+            "attributeName": "default",
+            "direction": "ASCENDING"
+          },
+          {
+            "attributeId": "PRODUCT_NAME",
+            "attributeName": "product_name",
+            "direction": "ASCENDING"
+          },
+          {
+            "attributeId": "PRODUCT_NAME",
+            "attributeName": "product_name",
+            "direction": "DESCENDING"
+          },
+          {
+            "attributeId": "PRODUCT_CODE",
+            "attributeName": "product_code",
+            "direction": "ASCENDING"
+          },
+          {
+            "attributeId": "PRODUCT_CODE",
+            "attributeName": "product_code",
+            "direction": "DESCENDING"
+          }
+        ]
+      }
+    },
+    "ca": {
+      "compare": {
+        "productCompareVisibility": {
+          "marketing": true,
+          "shop": false,
+          "combined": false
+        },
+        "excludedProductFamilies": ["LGServiceProducts", "Service_Products"],
+        "productFamilyReplacement": [
+          {
+            "replacementFamily": {
+              "singleProductFamily": "Refrigerators"
+            },
+            "familiesToReplace": {
+              "productFamily": [
+                "WashingMachines",
+                "AirConditioners",
+                "SoundBars",
+                "4K TVs"
+              ]
+            }
+          }
+        ]
+      },
+      "consentManager": {
+        "cmpId": "67890",
+        "cmpCode": "fghij67890"
+      },
+      "features": {
+        "offlineDealerLocator": true,
+        "orderFromOnlineStore": false,
+        "showLogosInBuyarea": false
+      },
+      "productDetails": {
+        "eNumberTabSection": {
+          "title": "How to Identify",
+          "href": "#/Tabs=section-spareparts/"
+        },
+        "eNumberHowToFind": "LG34567890_e-nr"
+      },
+      "energyLabel": {
+        "showText": true
+      },
+      "links": {
+        "countrySwitchPage": {
+          "title": "Switch to Your Country",
+          "href": "https://www.lg.com/ca/"
+        }
+      },
+      "pricing": {
+        "priceState": "enabled",
+        "ecoFeeState": true,
+        "retailPriceStatus": "ENABLED",
+        "unitPriceState": true
+      },
+      "reviews": {
+        "questionsAndAnswers": "enabled",
+        "reviewSharingLocales": {
+          "locales": ["ca", "au", "jp"]
+        },
+        "reviewsActivatedFor": {
+          "mainProductGroup": ["Refrigerators", "WashingMachines"]
+        }
+      },
+      "sales": {
+        "showPreSalesBadge": true,
+        "hidePreSalesFamilies": {
+          "excludeProductFamilies": ["LG 360 CAM"]
+        },
+        "services": {
+          "deliveryCostNote": true,
+          "deliveryTimeAndReturnNote": true,
+          "flexibleTextNote": true
+        }
+      },
+      "verification": {
+        "google": "lg-ca-verification-code"
+      },
+      "sorting": {
+        "availableOptions": [
+          {
+            "attributeId": "DEFAULT",
+            "attributeName": "default",
+            "direction": "ASCENDING"
+          },
+          {
+            "attributeId": "PRODUCT_NAME",
+            "attributeName": "product_name",
+            "direction": "ASCENDING"
+          },
+          {
+            "attributeId": "PRODUCT_NAME",
+            "attributeName": "product_name",
+            "direction": "DESCENDING"
+          },
+          {
+            "attributeId": "PRODUCT_CODE",
+            "attributeName": "product_code",
+            "direction": "ASCENDING"
+          },
+          {
+            "attributeId": "PRODUCT_CODE",
+            "attributeName": "product_code",
+            "direction": "DESCENDING"
+          }
+        ]
+      }
+    },
+    "au": {
+      "compare": {
+        "productCompareVisibility": {
+          "marketing": true,
+          "shop": false,
+          "combined": false
+        },
+        "excludedProductFamilies": ["LGServiceProducts", "Service_Products"],
+        "productFamilyReplacement": [
+          {
+            "replacementFamily": {
+              "singleProductFamily": "WashingMachines"
+            },
+            "familiesToReplace": {
+              "productFamily": [
+                "Refrigerators",
+                "AirConditioners",
+                "SoundBars",
+                "4K TVs"
+              ]
+            }
+          }
+        ]
+      },
+      "consentManager": {
+        "cmpId": "12345",
+        "cmpCode": "abcd12345"
+      },
+      "features": {
+        "offlineDealerLocator": true,
+        "orderFromOnlineStore": false,
+        "showLogosInBuyarea": false
+      },
+      "productDetails": {
+        "eNumberTabSection": {
+          "title": "How to Identify",
+          "href": "#/Tabs=section-spareparts/"
+        },
+        "eNumberHowToFind": "LG45678901_e-nr"
+      },
+      "energyLabel": {
+        "showText": true
+      },
+      "links": {
+        "countrySwitchPage": {
+          "title": "Switch to Your Country",
+          "href": "https://www.lg.com/au/"
+        }
+      },
+      "pricing": {
+        "priceState": "enabled",
+        "ecoFeeState": true,
+        "retailPriceStatus": "ENABLED",
+        "unitPriceState": true
+      },
+      "reviews": {
+        "questionsAndAnswers": "enabled",
+        "reviewSharingLocales": {
+          "locales": ["au", "jp"]
+        },
+        "reviewsActivatedFor": {
+          "mainProductGroup": ["WashingMachines", "Refrigerators"]
+        }
+      },
+      "sales": {
+        "showPreSalesBadge": true,
+        "hidePreSalesFamilies": {
+          "excludeProductFamilies": ["LG V40 ThinQ"]
+        },
+        "services": {
+          "deliveryCostNote": true,
+          "deliveryTimeAndReturnNote": true,
+          "flexibleTextNote": true
+        }
+      },
+      "verification": {
+        "google": "lg-au-verification-code"
+      },
+      "sorting": {
+        "availableOptions": [
+          {
+            "attributeId": "DEFAULT",
+            "attributeName": "default",
+            "direction": "ASCENDING"
+          },
+          {
+            "attributeId": "PRODUCT_NAME",
+            "attributeName": "product_name",
+            "direction": "ASCENDING"
+          },
+          {
+            "attributeId": "PRODUCT_NAME",
+            "attributeName": "product_name",
+            "direction": "DESCENDING"
+          },
+          {
+            "attributeId": "PRODUCT_CODE",
+            "attributeName": "product_code",
+            "direction": "ASCENDING"
+          },
+          {
+            "attributeId": "PRODUCT_CODE",
+            "attributeName": "product_code",
+            "direction": "DESCENDING"
+          }
+        ]
+      }
+    },
+    "jp": {
+      "compare": {
+        "productCompareVisibility": {
+          "marketing": true,
+          "shop": false,
+          "combined": false
+        },
+        "excludedProductFamilies": ["LGServiceProducts", "Service_Products"],
+        "productFamilyReplacement": [
+          {
+            "replacementFamily": {
+              "singleProductFamily": "AirConditioners"
+            },
+            "familiesToReplace": {
+              "productFamily": [
+                "Refrigerators",
+                "WashingMachines",
+                "SoundBars",
+                "4K TVs"
+              ]
+            }
+          }
+        ]
+      },
+      "consentManager": {
+        "cmpId": "56789",
+        "cmpCode": "efgh56789"
+      },
+      "features": {
+        "offlineDealerLocator": true,
+        "orderFromOnlineStore": false,
+        "showLogosInBuyarea": false
+      },
+      "productDetails": {
+        "eNumberTabSection": {
+          "title": "How to Identify",
+          "href": "#/Tabs=section-spareparts/"
+        },
+        "eNumberHowToFind": "LG56789012_e-nr"
+      },
+      "energyLabel": {
+        "showText": true
+      },
+      "links": {
+        "countrySwitchPage": {
+          "title": "Switch to Your Country",
+          "href": "https://www.lg.com/jp/"
+        }
+      },
+      "pricing": {
+        "priceState": "enabled",
+        "ecoFeeState": true,
+        "retailPriceStatus": "ENABLED",
+        "unitPriceState": true
+      },
+      "reviews": {
+        "questionsAndAnswers": "enabled",
+        "reviewSharingLocales": {
+          "locales": ["au", "jp"]
+        },
+        "reviewsActivatedFor": {
+          "mainProductGroup": ["AirConditioners", "Refrigerators"]
+        }
+      },
+      "sales": {
+        "showPreSalesBadge": true,
+        "hidePreSalesFamilies": {
+          "excludeProductFamilies": ["LG Tone Free "]
+        },
+        "services": {
+          "deliveryCostNote": true,
+          "deliveryTimeAndReturnNote": true,
+          "flexibleTextNote": true
+        }
+      },
+      "verification": {
+        "google": "lg-jp-verification-code"
+      },
+      "sorting": {
+        "availableOptions": [
+          {
+            "attributeId": "DEFAULT",
+            "attributeName": "default",
+            "direction": "ASCENDING"
+          },
+          {
+            "attributeId": "PRODUCT_NAME",
+            "attributeName": "product_name",
+            "direction": "ASCENDING"
+          },
+          {
+            "attributeId": "PRODUCT_NAME",
+            "attributeName": "product_name",
+            "direction": "DESCENDING"
+          },
+          {
+            "attributeId": "PRODUCT_CODE",
+            "attributeName": "product_code",
+            "direction": "ASCENDING"
+          },
+          {
+            "attributeId": "PRODUCT_CODE",
+            "attributeName": "product_code",
+            "direction": "DESCENDING"
+          }
+        ]
+      }
+    }
+  }
+}
