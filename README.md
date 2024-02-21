@@ -1,7 +1,7 @@
 # Website features dashboard
 
 ## Business Task
-This project aims to offer a comprehensive view of various features present on comapny's websites. 
+This is dashboard that I create for my company(with changed data). It aim to offer a comprehensive view of various features present on comapny's websites. 
 
 ## Dataset
 https://github.com/jljigwu/website-features-dashboard/blob/main/starting-json.json
